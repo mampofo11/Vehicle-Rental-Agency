@@ -1,4 +1,4 @@
-# Java Vehicle Rental Agency
+# Vehicle Rental Agency (Java)
 
 A console-based vehicle rental management system built in Java that simulates the core operations of a real-world rental agency. The application supports employee and manager workflows, vehicle reservations, rental cost estimation, and transaction tracking using object-oriented design principles.
 
