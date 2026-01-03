@@ -47,7 +47,6 @@ A console-based vehicle rental management system built in Java that simulates th
 
 ## Project Structure
 
-Program 4/
 - AgencyRentalProgram.java
 - EmployeeUI.java
 - ManagerUI.java
